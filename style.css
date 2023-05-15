@@ -112,7 +112,7 @@ body{
 .rodapé{
     display: flex;
     justify-content: center;
-    margin-top: 750px;
+    margin-top: 900px;
     position: fixed;
     z-index: 999;
     left: 0%;
@@ -133,5 +133,5 @@ body{
     transition: 0.3s;
 }
 .text p{
-    margin: 0px 700px 0px 0px;
+    margin: 0px 1180px 0px 0px;
 }

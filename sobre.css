@@ -81,7 +81,7 @@ body{
 .rodapé{
     display: flex;
     justify-content: center;
-    margin-top: 750px;
+    margin-top: 900px;
     position: fixed;
     z-index: 999;
     left: 0%;

@@ -75,7 +75,7 @@ body{
 .rodapé{
     display: flex;
     justify-content: center;
-    margin-top: 750px;
+    margin-top: 900px;
     position: fixed;
     z-index: 999;
     left: 0%;
@@ -93,4 +93,18 @@ body{
 .redes-sociais a{
     display: inline-flex;
     margin-left: 20px;
+}
+
+
+.textomain{
+    color: #fff;
+    margin: 100px 0px 0px 150px;
+}
+.textomain h1{
+    color: #2ecc71;
+}
+.textomain p{
+    margin: 5px 1130px 0px 0px;
+    font-size: 13px;
+    font-weight: 300;
 }
