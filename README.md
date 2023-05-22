@@ -1,2 +1,0 @@
-# MeuPortfolio
-Portfolio trabalho
