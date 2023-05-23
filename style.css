@@ -96,9 +96,7 @@ footer .container a:hover{
 
 
 
-::-webkit-scrollbar{
-    display: none;
-}
+
 
    
 
@@ -106,20 +104,22 @@ footer .container a:hover{
    /* sobre html */
 
 
-   /* main sobre */
-
    main .sobrep{
     font-size: 17px;
    }
 
-
-   /* main sobre */
-
-
-    /* sobre html */
+   /* sobre html */
 
 
 
-    /* formação html */
+   
+    /* Contato html */
+      .btncontato button{
+        color: white;
 
-    /* formação html */
+      }
+   
+    /* Contato html */
+
+
+    
