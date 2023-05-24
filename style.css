@@ -50,9 +50,6 @@ section.menu {
 
 
 
-
-
-
     /* main */  
 
     main span{
@@ -70,9 +67,6 @@ section.menu {
     }
 
     /* main */  
-
-
-
 
 
     /* footer */
@@ -96,11 +90,6 @@ footer .container a:hover{
 
 
 
-
-
-   
-
-
    /* sobre html */
 
 
@@ -116,10 +105,34 @@ footer .container a:hover{
     /* Contato html */
       .btncontato button{
         color: white;
-
       }
-   
+
+
+      .contatoeforms form{
+        margin-top: 60px;
+      }
+
+      .contatoeforms form button{
+        margin-top: 5px;
+      }
+
+      .formscont button{
+        color: rgb(255, 255, 255);
+        background:  rgb(170, 62, 0);
+    }
+
+      .formscont button:hover{
+        color: rgb(170, 62, 0);
+        background: rgb(255, 255, 255);
+        transition: 0.5s;
+      }
+
     /* Contato html */
+
+
+    /* Portfólio */
+
+    /* Portfólio */
 
 
     
