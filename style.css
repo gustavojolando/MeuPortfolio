@@ -107,6 +107,21 @@ footer .container a:hover{
         color: white;
       }
 
+      .btncontato .btnredes{
+        border: none;
+      }
+
+
+      main .btnredes:hover{
+        background: transparent;
+      }
+
+      .btncontato a:hover{
+        background: rgb(170, 62, 0);
+        border-color: rgb(170, 62, 0);
+        transition: 0.5s;
+      }
+
 
       .contatoeforms form{
         margin-top: 60px;
