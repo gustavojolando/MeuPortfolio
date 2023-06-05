@@ -147,7 +147,23 @@ footer .container a:hover{
 
     /* Portfólio */
 
+    .card-body a{
+        color: white;
+    }
+
+    .card-body a:hover{
+        color: rgb(170, 62, 0);
+        transition: 0.5s;
+    }
+
     /* Portfólio */
+
+
+    
+    /* Atc P */
+    /* Atc P */
+
+
 
 
     
